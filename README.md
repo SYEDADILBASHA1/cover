@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## Date: 23-04-2024
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -152,6 +152,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
+![Screenshot (183)](https://github.com/SYEDADILBASHA1/cover/assets/134796157/1ac02906-1a8f-43db-a3a5-470d37b86c27)
 
 
 ## RESULT:
